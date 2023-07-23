@@ -3,7 +3,7 @@ import './App.css'
 function Contact() {
   return (
     <div>
-        <h2>
+        <h2 id='h2'>
         Contact us page
             </h2></div>
   )
