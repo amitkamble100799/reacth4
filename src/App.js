@@ -1,6 +1,6 @@
 import React from 'react';
 import Routecomp from './Routecomp';
-import {BrowserRouter,Route,Routes} from 'react-router-dom'
+import {BrowserRouter} from 'react-router-dom'
 import Linkcomp from './Linkcomp';
 import './App.css'
 function App() {
