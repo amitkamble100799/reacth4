@@ -2,7 +2,7 @@ import React from 'react'
 import Home from './Home'
 import Contact from './Contact'
 import Student from './Student'
-import {BrowserRouter,Route,Routes} from 'react-router-dom'
+import {Route,Routes} from 'react-router-dom'
 import './App.css'
 function Routecomp() {
   return (
